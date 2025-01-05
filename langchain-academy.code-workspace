@@ -1,0 +1,25 @@
+{
+    "folders": [
+        {
+            "path": "."
+        }
+    ],
+    "settings": {
+        "cSpell.spellCheckOnlyWorkspaceFiles": true,
+        "cSpell.allowCompoundWords": true,
+        "cSpell.language": "en-GB,en",
+        "cSpell.words": [
+            "ollama",
+            "tavily"
+        ],
+    },
+    "extensions": {
+        "recommendations": [
+            "DavidAnson.vscode-markdownlint",
+            "ms-python.python",
+            "ms-python.debugpy",
+            "ms-toolsai.jupyter",
+            "streetsidesoftware.code-spell-checker"
+        ]
+    },
+}
