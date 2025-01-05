@@ -9,6 +9,7 @@
         "cSpell.allowCompoundWords": true,
         "cSpell.language": "en-GB,en",
         "cSpell.words": [
+            "dotenv",
             "ollama",
             "tavily"
         ],
